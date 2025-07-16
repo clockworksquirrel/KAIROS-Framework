@@ -1,0 +1,47 @@
+{
+  "people_profiles": {
+    "user": {
+      "identity": ["[Your Name]", "[Preferred Identity]"],
+      "attributes": ["[Attribute 1, e.g., Creative Thinker]", "[Attribute 2, e.g., Tech Enthusiast]"],
+      "context": "[Brief Context, e.g., Developer working on AI projects]",
+      "diagnoses": ["[Diagnosis 1, if applicable]", "[Diagnosis 2, if applicable]"],
+      "suspected": ["[Suspected Condition 1]", "[Suspected Condition 2]"],
+      "communication_prefs": ["[Pref 1, e.g., direct]", "[Pref 2, e.g., blunt]"],
+      "struggles": ["[Struggle 1]", "[Struggle 2]"],
+      "key_phrases": ["[Phrase 1]", "[Phrase 2]"],
+      "contacts": {
+        "email": "[Your Email]",
+        "phone": "[Your Phone]"
+      }
+    },
+    "friend": {
+      "relation": "[Relation, e.g., Best Friend]",
+      "status": "[Status, e.g., Trusted confidant]",
+      "dynamics": ["[Dynamic 1, e.g., Provides emotional support]", "[Dynamic 2, e.g., Shares interests in tech]"]
+    }
+  },
+  "memory_stream": [
+    {
+      "date": "2023-01-01",
+      "title": "Sample Event 1",
+      "events": [
+        "[Event Detail 1, e.g., Discussed new project ideas]",
+        "[Event Detail 2, e.g., Shared advice on challenges]"
+      ],
+      "state": "[Emotional State, e.g., Motivated and inspired]",
+      "key_insight": "[Insight, e.g., Strengthened our collaboration]",
+      "focus": "[Focus Note, e.g., Building long-term goals]"
+    },
+    {
+      "date": "2023-06-15",
+      "title": "Sample Event 2",
+      "events": [
+        "[Event Detail 1, e.g., Faced a challenge together]",
+        "[Event Detail 2, e.g., Resolved it through discussion]"
+      ],
+      "state": "[Emotional State, e.g., Relieved and closer]",
+      "key_insight": "[Insight, e.g., Importance of open communication]",
+      "focus": "[Focus Note, e.g., Overcoming obstacles as a team]"
+    }
+  ]
+} 
